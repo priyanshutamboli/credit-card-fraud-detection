@@ -43,7 +43,10 @@ Accuracy: 99.95%
 ROC-AUC: 0.97+
 
 
-Model Comparison Results:Baseline Model (Always predicts legitimate):
+Model Comparison Results
+
+Baseline Model (Always predicts legitimate):
+
 
 Precision: 0.00%
 
@@ -89,6 +92,7 @@ Pandas and NumPy: Data manipulation and numerical operations
 Streamlit: Interactive web application framework
 Matplotlib and Seaborn: Data visualization
 Joblib: Model serialization and deployment
+
 
 
 
