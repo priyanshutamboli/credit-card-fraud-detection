@@ -29,26 +29,57 @@ Final Model Metrics:
 
 
 F1 Score: 85.56%
+
+
 Precision: 93.90%
+
+
 Recall: 78.57%
+
+
 Accuracy: 99.95%
+
+
 ROC-AUC: 0.97+
+
+
 Model Comparison Results:Baseline Model (Always predicts legitimate):
 
 Precision: 0.00%
+
+
 Recall: 0.00%
+
+
 F1 Score: 0.00%
+
+
 Accuracy: 99.83% (misleading!)
+
+
 Decision Tree:
 
+
 Precision: 65.14%
-Recall: 72.45%
+
+
+Recall: 72.45
+
+
 F1 Score: 68.60%
+
+
 Random Forest (Selected):
 
 Precision: 93.90%
+
+
 Recall: 78.57%
+
+
 F1 Score: 85.56%
+
+
 
 Technologies Used:
 
@@ -58,5 +89,6 @@ Pandas and NumPy: Data manipulation and numerical operations
 Streamlit: Interactive web application framework
 Matplotlib and Seaborn: Data visualization
 Joblib: Model serialization and deployment
+
 
 
