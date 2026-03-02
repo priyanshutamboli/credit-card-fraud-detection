@@ -27,7 +27,6 @@ Model Performance
 
 Final Model Metrics:
 
-
 F1 Score: 85.56%
 
 
@@ -47,7 +46,6 @@ Model Comparison Results
 
 Baseline Model (Always predicts legitimate):
 
-
 Precision: 0.00%
 
 
@@ -61,7 +59,6 @@ Accuracy: 99.83% (misleading!)
 
 
 Decision Tree:
-
 
 Precision: 65.14%
 
@@ -87,11 +84,22 @@ F1 Score: 85.56%
 Technologies Used:
 
 Python 3.8+: Core programming language
+
+
 Scikit-learn: Machine learning models and preprocessing
+
+
 Pandas and NumPy: Data manipulation and numerical operations
+
+
 Streamlit: Interactive web application framework
+
+
 Matplotlib and Seaborn: Data visualization
+
+
 Joblib: Model serialization and deployment
+
 
 
 
